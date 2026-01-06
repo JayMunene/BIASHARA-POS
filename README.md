@@ -1,4 +1,4 @@
-# Biashara-POS 🏗️
+# Biashara-POS 🏗️   (Im still building it so many bugs im tryna fix especially in the backend logic)
 
 A Point of Sale (POS) system built with Spring Boot backend and HTML/JavaScript frontend.
 
